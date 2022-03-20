@@ -2,7 +2,11 @@
 
 Less steps, more operations.
 
+## How to Use
 
+Copy index.js file content and paste the file into the tampermonkey website (create a new scripte) and save it.
+
+Then, script will be run in github.
 
 ## Function List
 
