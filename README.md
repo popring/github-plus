@@ -4,7 +4,7 @@ Less steps, more operations.
 
 ## How to install
 
-- click [one step install](https://github.com/popring/github-plus/blob/main/index.user.js)
+- click [one step install](https://github.com/popring/github-plus/raw/main/index.user.js)
 
 - When open new page, click install.
 
