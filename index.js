@@ -27,7 +27,7 @@
     oneSecBtn.classList.add('btn', 'ml-2', 'd-none', 'd-md-block')
     oneSecBtn.setAttribute('href', `https://github1s.com${location.pathname + location.search + location.hash}`)
     oneSecBtn.textContent = 'Online Open'
-    oneSecBtn.target = '_blank'
+    // oneSecBtn.target = '_blank'
     const res = navigation.appendChild(oneSecBtn)
     console.log(res)
   }
