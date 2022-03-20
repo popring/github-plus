@@ -2,11 +2,15 @@
 
 Less steps, more operations.
 
-## How to Use
+## How to install
 
-Copy index.js file content and paste the file into the tampermonkey website (create a new scripte) and save it.
+- click [one step install](https://github.com/popring/github-plus/blob/main/index.user.js)
 
-Then, script will be run in github.
+- When open new page, click install.
+
+![](https://raw.githubusercontent.com/popring/assets-repo/master/img/202203201626705.png)
+
+- Then, script will be run in github.
 
 ## Function List
 
