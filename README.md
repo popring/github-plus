@@ -4,6 +4,8 @@ Less steps, more operations.
 
 ## How to install
 
+- first, you need installed `Tampermonkey` extends in your chrome or other browser.
+
 - click [one step install](https://github.com/popring/github-plus/raw/main/index.user.js)
 
 - When open new page, click install.
